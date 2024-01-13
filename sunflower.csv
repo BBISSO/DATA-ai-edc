@@ -1,4 +1,4 @@
-DATE,Time (hour),Soil Air (%),Soil Humid (%),Air Temp (%),Air Humid (%),Light (Lux),pH,N (mg/kg),P (mg/kg),K (mg/kg)
+DATE,Time (hour),Soil Temp (?C),Soil Humid (%),Air Temp (?C),Air Humid (%),Light (Lux),pH,N (mg/kg),P (mg/kg),K (mg/kg)
 12/1/2024,21,22.69,70,24.8,94.2,0,6.5,57,6,17
 12/1/2024,21,22.69,70,24.7,94.2,0,6.5,57,6,17
 12/1/2024,21,22.69,70,24.8,93.7,0,6.5,57,6,17
@@ -2781,6 +2781,3 @@ DATE,Time (hour),Soil Air (%),Soil Humid (%),Air Temp (%),Air Humid (%),Light (L
 13/1/2024,20,22,69,24.3,92,0,6.6,56,5,16
 13/1/2024,20,22,69,24.3,92,0,6.6,56,5,16
 13/1/2024,21,22,69,24.3,92,0,6.6,56,5,16
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
